@@ -1,7 +1,14 @@
 ## Yo👋 ##
-<div class="tenor-gif-embed" data-postid="16947491" data-share-method="host" data-aspect-ratio="0.859375" data-width="100%"><a href="https://tenor.com/view/sonic-running-run-fast-gotta-go-fast-pixel-art-gif-16947491">Sonic Running Sticker</a>from <a href="https://tenor.com/search/sonic-stickers">Sonic Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+I'm a cs student at UNISA
 
+<iframe src="https://giphy.com/embed/fu3GohBvHTaco" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sonic-correndo-gif-fu3GohBvHTaco">via GIPHY</a></p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
+</div>
+
+#################################
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -17,11 +24,13 @@
 
 ### 💀: Le voci :
 
-https://github-readme-streak-stats.herokuapp.com/?user=VincenzoZAmboli
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VincenzoZAmboli&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+### 💀: Dove butto il sangue:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoZAmboli)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

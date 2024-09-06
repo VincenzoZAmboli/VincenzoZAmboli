@@ -1,8 +1,9 @@
 ## Yo👋 ##
 I'm a cs student at UNISA
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/fu3GohBvHTaco" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sonic-correndo-gif-fu3GohBvHTaco">via GIPHY</a></p>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fu3GohBvHTaco/giphy.gif" width="100"/>
+</div>
 
 
 <div>

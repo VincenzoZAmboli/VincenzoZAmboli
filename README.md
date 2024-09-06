@@ -1,11 +1,5 @@
 ## Yo👋 ##
 I'm a cs student at UNISA
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/fu3GohBvHTaco/giphy.gif" width="100"/>
-</div>
-
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -25,10 +19,9 @@ I'm a cs student at UNISA
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VincenzoZAmboli&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-### 💀: Dove butto il sangue:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoZAmboli)](https://github.com/anuraghazra/github-readme-stats)
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fu3GohBvHTaco/giphy.gif" width="100"/>
+</div>
 
 
 <!--

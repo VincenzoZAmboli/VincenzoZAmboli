@@ -1,19 +1,22 @@
-## Yo🤙 ##
-I'm a cs student at UNISA
+## Ciao! Sono Vincenzo Zamboli🤙 ##
+<a href="https://www.unisa.it" rel="nofollow"> <img src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo" width="120" style="max-width: 100%;"> </a>
+
+Studente di Informatica a UNISA
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60 style="max-width: 100%;"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" style="max-width: 100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 
-
+- 🔭 Progetto Ingegneria del software https://github.com/VincenzoZAmboli/Black-White
+- 🔭 Progetto Tecnologia software web [https://github.com/VincenzoZAmboli/Black-White](https://github.com/RVigliotta/ProgettoTSW)
+---
 ---
 
-### 💀: Le voci :
+### 💀 :
 
 
 
@@ -29,7 +32,7 @@ I'm a cs student at UNISA
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
